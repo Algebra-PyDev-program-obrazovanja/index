@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Python",
+        "description": "Develop Python applications.",
+        "gitUrl": "https://github.com/daytonaio-templates/python",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio-templates/python/main/README.md"
+    }
+]
